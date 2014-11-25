@@ -1,13 +1,17 @@
 examen_2015
 ===========
 
+### Fragen-Countdown
+Nur noch 119 Fragen zu schreiben. 
 
-nur noch 119 Fragen zu schreiben. 
+### Aktuell
+Mir sind alles krassi Sieche!
 
-Fabian hat schon eine gemacht. Noémie auch!
+Instruktionen
+=============
 
+Neue Frage Einfügen
+-------------------
 
-
------------------------
-
-Im richtigen Folder gehen und auf + klicken
+* Im Broser den richtigen Folder auswählen und auf das + am Ende des Pfades klicken
+* Den Namen vom neuen File eingeben, inklusive *.txt Suffix
