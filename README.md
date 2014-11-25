@@ -1,5 +1,7 @@
-examen_2015
-===========
+Zweite Runde der SBO 2015
+=========================
+
+Dieses GitHub Repository ist ein Versuch das Erstellen der SBO-Prüfungen effizienter zu gestalten, indem die Kollaboration vereinfacht wird.
 
 ### Fragen-Countdown
 Nur noch 119 Fragen zu schreiben. 
