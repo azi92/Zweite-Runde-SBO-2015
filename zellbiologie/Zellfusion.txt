@@ -3,4 +3,4 @@ Es wurde beobachtet, dass gewisse menschliche Krebszellen welche in Kultur gehal
 Zellen die aus einer Fusion hervorgehen sind diploid.
 Die Fusion von Zellen ist nur im Labor möglich und hat keine biologische Relevanz.
 Nach der Fusion von zwei Zellen kann es auch zu Fusionen zwischen Mitochondrien der beiden ursprungzellen Zellen kommen.
-Durch gezielte Fusion bestimmter Zellen können Zellinien mit kombinierten Eigenschaften entstehen.
+Durch die gezielte Fusion bestimmter Zellen können Zellinien mit kombinierten Eigenschaften entstehen.
