@@ -1,3 +1,6 @@
+This Repository is obsolete and should not be used anymore!
+===========================================================
+
 Zweite Runde der SBO 2015
 =========================
 
